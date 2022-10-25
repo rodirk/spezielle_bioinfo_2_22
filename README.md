@@ -1,3 +1,3 @@
 # spezielle_bioinfo_2_22
 
-colab notebooks used in image basics
+Google Colab Notebook vom 24.10.22. Bearbeitet wurden die Image Basics mit Python
