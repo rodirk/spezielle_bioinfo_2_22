@@ -1,6 +1,6 @@
 # spezielle_bioinfo_2_22
 
-Google Colab Notebook zweite Woche Praktikum Spezielle Bioinfo II
+Notebooks der zweiten Praktikumswoche Spezielle Bioinfo II
 
 ### Inhalt: 
 
